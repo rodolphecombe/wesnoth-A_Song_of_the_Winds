@@ -1,3 +1,7 @@
+Changelog V 1.0.4.22
+- Prevent Dwarves and Elves from attacking the Obelisk in scenario 1
+- Add loss condition of killing the Obelisk in scenario 1
+
 Changelog V 1.0.4.21
 - Added missing images for Prophet
 
