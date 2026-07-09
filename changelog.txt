@@ -1,3 +1,6 @@
+Changelog V 1.0.4.24
+- Inform the player about a defeat condition in Lightning and Fire
+
 Changelog V 1.0.4.23
 - Fix Convergence breaking if an unit attacks Krathon before turn 17.
 
